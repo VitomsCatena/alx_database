@@ -29,13 +29,19 @@
 -The length of your files will be tested using wc
 
 More Info
+
 Comments for your SQL file:
+
+<!--start of code example-->
 $ cat my_script.sql
 -- 3 first students in the Batch ID=3
 -- because Batch 3 is the best!
 SELECT id, name FROM students WHERE batch_id = 3 ORDER BY created_at DESC LIMIT 3;
 $
-How to Install MySQL on Windows
+<!--end-->
+
+#How to Install MySQL on Windows:
+
 Check out this comprehensive step by step guide to set up MySQL if you are using Windows: Installing MySQL on Windows: A Step-by-Step Guide
 
 If you using the a Ubuntu instead then follow the guide below to install MySQL.
