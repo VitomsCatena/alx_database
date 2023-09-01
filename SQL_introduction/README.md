@@ -4,7 +4,7 @@ i had given up but my friend convinced me to do it again.
 #General requirements for this project are as follows:
 -**What’s a database**
 -**What’s a relational database**
-What does SQL stand for
+-**What does SQL stand for**
 What’s MySQL
 How to create a database in MySQL
 What does DDL and DML stand for
